@@ -15,8 +15,8 @@ With FairnessDPLab, you can:
 
 ## Modules
 
-![FairnessDPLab Overview](https://github.com/user-attachments/assets/205688f8-7c68-4dea-99f2-872e3202577e)
-{:height="600px" width="800px"}
+<img src="https://github.com/user-attachments/assets/205688f8-7c68-4dea-99f2-872e3202577e" width="800" height="600" />
+
 
 ### Modeling Module
 - Non-Private Modeling
