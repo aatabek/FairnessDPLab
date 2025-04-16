@@ -14,8 +14,9 @@ With FairnessDPLab, you can:
 - Save and track experimental results, enabling a deeper understanding of how different variables influence fairness in AI.
 
 ## Modules
+![image](https://github.com/user-attachments/assets/79abdf8e-c216-48ba-9302-039bdec86a87)
 
-<img src="https://github.com/user-attachments/assets/205688f8-7c68-4dea-99f2-872e3202577e" width="600" height="400" />
+<img src="https://github.com/user-attachments/assets/79abdf8e-c216-48ba-9302-039bdec86a87" width="600" height="400" />
 
 
 ### Modeling Module
