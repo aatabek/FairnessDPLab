@@ -15,7 +15,7 @@ With FairnessDPLab, you can:
 
 ## Modules
 
-<img src="https://github.com/user-attachments/assets/205688f8-7c68-4dea-99f2-872e3202577e" width="800" height="600" />
+<img src="https://github.com/user-attachments/assets/205688f8-7c68-4dea-99f2-872e3202577e" width="600" height="400" />
 
 
 ### Modeling Module
